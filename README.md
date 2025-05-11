@@ -52,8 +52,10 @@ School Guide is a mobile Android application developed as a graduation project. 
 ### 🔸 Side Bar 
 ![Side Bar](screenshots/12-Sidebar.png)
 
-### 🔸 Demo
-![Video](https://youtube.com/shorts/S-AWe93_tuU)
+## 🎥 Demo
+
+▶️ [Click here to watch the demo](screenshots/demo.mp4)
+
 
 ## Technologies Used
 
