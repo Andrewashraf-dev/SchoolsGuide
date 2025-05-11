@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Schools Guide</string>
+    <string name="get_started">Get Started</string>
+    <string name="skip">Skip</string>
+    <string name="ali_ibn_abi_taleb">Ali ibn abi taleb</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description">Description</string>
+    <string name="ali_abn_abi_talib_school_shubra_languages">Ali Abn Abi Talib Languages School
+         </string>
+    <string name="alischool">Region: Shubra Governorate: Cairo
+        \nFrom KINDERGARTEN to Preparatory
+    \nAddress: 21 Madrasah Ali Ibn Abi Talib St.Shubra behind Good Shepherd Hospital
+    \nPrice Per Year: NA \nland line: 0222020753
+</string>
+    <string name="Hafezschool">Region: El Sahel - Governorate: Cairo
+        \nHigh School
+    \nAddress: Al Yazgi, Borham, El Sahel, Cairo Governorate 11341
+    \nPrice Per Year: NA \nland line: 0224305453
+</string>
+    <string name="MaadiGadida">Region: El Maadi - Governorate: Cairo
+        \nPreparatory School
+    \nAddress: 34 Mostafa Kamel st., Maadi Al Khabiri Ash Sharqeyah, Maadi, Cairo Governorate 4211110
+    \nPrice Per Year: NA \nland line: 02 23580191
+</string>
+    <string name="MrsKhadija">Region: El Maadi - Governorate: Cairo
+        \nPrimary and preparatory School
+    \nAddress: Zahraa Al Maadi, El-Basatin Sharkeya, Maadi, Cairo
+    \nPrice Per Year: NA \nland line: 02 29703237
+</string>
+    <string name="omran">Region: El Maadi - Governorate: Cairo
+        \nPreparatory School
+    \nAddress: Zahraa Al Maadi,  Al Agouzah, Maadi, Cairo
+    \nPrice Per Year: NA \nland line: 02 3753503
+</string>
+    <string name="stmary">Region: Shubra - Governorate: Cairo
+        \nBaby-Class to Secondary school
+    \nAddress: 121 Shubra Misr Street - in front of the Good Shepherd Hospital - Shubra Misr - Cairo
+    \nPrice Per Year: Baby-Class: 10,000LE \n KG: 14,000
+        \nland line: 02 22020729
+</string>
+    <string name="saintpaul">Region: Shubra - Governorate: Cairo
+        \nBaby-Class to Secondary school
+    \nAddress: 23 El Bethah St. - Off Shubra Street - Shubra Misr - Cairo
+    \nPrice Per Year: KG: 16,000
+        \nland line: 02 25765406
+</string>
+    <string name="rcg">Region: Shubra - Governorate: Cairo
+        \nSchool Stages: - Kindergarten - Primary - Preparatory - Secondary
+    \nAddress: 198 Ramses, El-Zaher, Daher, Cairo Governorate 4336143
+    \nPrice Per Year: NA
+        \nland line: 02 24452229
+</string>
+    <string name="vic">Region: El Maadi - Governorate: Cairo
+        \nSchool Stages: - Kindergarten - Primary - Preparatory - Secondary
+    \nAddress: Rd. 250, next to Grand Mall, Maadi, Cairo
+    \nPrice Per Year: NA
+        \nland line: 02 24349729
+</string>
+    <string name="bshaer">Region: El Maadi - Governorate: Cairo
+        \nSchool Stages: - Kindergarten - Primary - Preparatory - Secondary
+    \nAddress: Al Shatr Al Tasaa, El Maadi, Cairo Governorate 4234320
+    \nPrice Per Year: NA
+        \nland line: 02 24448029
+</string>
+    <string name="isis">Region: Shoubra - Governorate: Cairo
+        \nSchool Stages: - Kindergarten - Primary - Preparatory - Secondary
+    \nAddress: 38 Shoubra St, Rod Al Farag, Rod El Farag, Cairo Governorate 11631
+    \nPrice Per Year: NA
+        \nland line: 02 24604248
+</string>
+    <string name="stgeorge">Region: Shoubra - Governorate: Cairo
+        \nSchool Stages: - Kindergarten - Primary - Preparatory - Secondary
+    \nAddress: 20 ATA Allah Hanna, Menyat as Serg, El Sahel, Cairo Governorate 4353021
+    \nPrice Per Year: NA
+        \nland line: 02 22358473
+</string>
+    <string name="sweet">Region: Shoubra - Governorate: Cairo
+        \nSchool Stages: - Kindergarten - Primary - Preparatory - Secondary
+    \nAddress: 3 El Daramally St.، SHOUBRA, Shubra, Cairo Governorate 4342112
+    \nPrice Per Year: NA
+        \nland line: 02 24313009
+</string>
+    <string name="british">Region: El Maadi - Governorate: Cairo
+        \nSchool Stages: - Kindergarten - Primary - Preparatory - Secondary
+    \nAddress: 3 Ring Rd, El-Basatin Sharkeya, Maadi, Cairo Governorate 4236052
+    \nPrice Per Year: NA
+        \nland line: 02 22506708
+</string>
+    <string name="sama">Region: El Maadi - Governorate: Cairo
+        \nSchool Stages: - Kindergarten - Primary - Preparatory - Secondary
+    \nAddress: Street 33, Al Abageyah, El Khalifa, Cairo Governorate 4410181
+    \nPrice Per Year: NA
+        \nland line: 02 24670929
+</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="app_description">Schools Guide is a graduation project by students: Andrew Ashraf, Ganna tu Allah Sherif, Hager Saad, and Rawan Haitham. Our mission is to make it easy for parents to find and apply to suitable schools for their children using technology. We provide comprehensive details about each school, including pictures, website links, location, prices, reviews, and system. Our aim is to solve the problem of parents finding it hard to search for suitable schools and provide a valuable service to many families.</string>
+    <string name="version">Version: V.1 Beta</string>
+    <string name="developer_info">Developer Info: Andrew Ashraf \nPhone Number: 01275457893 \nEmail:Thisisandrwashrf@gmail.com </string>
+    <string name="termss">1. Terms
+By accessing this Website, accessible from Website.com, you are agreeing to be bound by these Website Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained in this Website are protected by copyright and trade mark law.
+
+2. Use License
+Permission is granted to temporarily download one copy of the materials on Company Name\'s Website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
+
+modify or copy the materials;
+use the materials for any commercial purpose or for any public display;
+attempt to reverse engineer any software contained on Company Name\'s Website;
+remove any copyright or other proprietary notations from the materials; or
+transferring the materials to another person or "mirror" the materials on any other server.
+This will let Company Name to terminate upon violations of any of these restrictions. Upon termination, your viewing right will also be terminated and you should destroy any downloaded materials in your possession whether it is printed or electronic format.
+</string>
+
+</resources>

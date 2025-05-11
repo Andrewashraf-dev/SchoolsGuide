@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--theme for transparent bg of dialog-->
+    <style name="CustomDialog" parent ="Theme.MaterialComponents.Dialog">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    
+    <style name="styleCircleImage">
+        <item name="cornerFamily">rounded</item>
+
+    </style>
+
+    <style name="MyTabLayoutTextAppearance" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:textSize">12sp</item>
+        <item name="selected_color">@android:color/white</item>
+    </style>
+
+</resources>
