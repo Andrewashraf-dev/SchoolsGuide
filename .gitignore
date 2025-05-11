@@ -1,30 +1,48 @@
-# Gradle files
-.gradle/
-build/
-*/build/
+# Android build folders
+/build/
+/*/build/
 
-# Local configuration file (sdk path, etc)
+# Local configuration (contains SDK path, etc.)
 local.properties
 
-# Android Studio files
+# Signing files (keystores, credentials, etc.)
+*.jks
+*.keystore
+signing.properties
+*.pem
+
+# IDE config files
 .idea/
 *.iml
 *.ipr
 *.iws
 
-# Keystore files (DO NOT UPLOAD)
-*.jks
-*.keystore
+# Gradle cache and logs
+.gradle/
+gradle.properties
 
-# Crash logs
-*.log
-
-# OS-generated files
+# OS-specific files
 .DS_Store
 Thumbs.db
 
-# Signing config (if any)
-signing.properties
-
-# Environment variables or secrets
+# Environment config files
 .env
+
+# Logs
+*.log
+
+# APKs and output artifacts
+*.apk
+*.ap_
+
+# Crash reports
+crashlytics-build.properties
+fabric.properties
+
+# Kotlin build-related
+*.kotlin_module
+
+# Misc
+gen/
+out/
+captures/
