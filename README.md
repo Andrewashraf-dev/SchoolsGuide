@@ -16,41 +16,24 @@ School Guide is a mobile Android application developed as a graduation project. 
 
 ## Screenshots
 
-### 🔸 Start Screen
-<img src="1-Logo.png" alt="Start Screen" width="100"/>
-
-### 🔸 Splash Screen
-![Splash Screen](screenshots/2-SplashScreen.png)
-
-### 🔸 OnBoarding Screen
-![OnBoarding Screen](screenshots/3-OnBoarding.png)
-
-### 🔸 OnBoarding Screen 2
-![OnBoarding Screen](screenshots/4-OnBoarding.png)
-
-### 🔸 OnBoarding Screen 3
-![OnBoarding Screen](screenshots/5-OnBoarding.png)
-
-### 🔸 Login Screen 
-![Login Screen](screenshots/6-Login.png)
-
-### 🔸 Signup Screen 
-![Signup Screen](screenshots/7-Signup.png)
-
-### 🔸 Dashboard Screen 
-![Dashboard Screen](screenshots/8-Dashboard.png)
-
-### 🔸 Schools Screen 
-![Schools Screen](screenshots/9-SchoolList.png)
-
-### 🔸 School Info 
-![School Info](screenshots/10-Schoolinfo.png)
-
-### 🔸 School Info 2
-![School Info](screenshots/11-Maps.png)
-
-### 🔸 Side Bar 
-![Side Bar](screenshots/12-Sidebar.png)
+<p align="center">
+  <img src="screenshots/1-Logo.png" alt="Start Screen" width="23%">
+  <img src="screenshots/2-SplashScreen.png" alt="Splash Screen" width="23%">
+  <img src="screenshots/3-OnBoarding.png" alt="OnBoarding Screen 1" width="23%">
+  <img src="screenshots/4-OnBoarding.png" alt="OnBoarding Screen 2" width="23%">
+</p>
+<p align="center">
+  <img src="screenshots/5-OnBoarding.png" alt="OnBoarding Screen 3" width="23%">
+  <img src="screenshots/6-Login.png" alt="Login Screen" width="23%">
+  <img src="screenshots/7-Signup.png" alt="Signup Screen" width="23%">
+  <img src="screenshots/8-Dashboard.png" alt="Dashboard Screen" width="23%">
+</p>
+<p align="center">
+  <img src="screenshots/9-SchoolList.png" alt="Schools Screen" width="23%">
+  <img src="screenshots/10-Schoolinfo.png" alt="School Info" width="23%">
+  <img src="screenshots/11-Maps.png" alt="School Info 2" width="23%">
+  <img src="screenshots/12-Sidebar.png" alt="Side Bar" width="23%">
+</p>
 
 ## 🎥 Demo
 
