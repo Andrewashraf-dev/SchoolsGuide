@@ -46,12 +46,6 @@ School Guide is a mobile Android application developed as a graduation project. 
 - **Platform:** Android Studio  
 - **Backend:** Firebase (Authentication, Realtime Database / Firestore)
 
-## How to Run
-
-1. Clone this repository
-2. Open the project in Android Studio
-3. Connect your own Firebase project
-4. Build and run the app on an emulator or device
 
 ## License
 
