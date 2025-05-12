@@ -17,7 +17,7 @@ School Guide is a mobile Android application developed as a graduation project. 
 ## Screenshots
 
 ### 🔸 Start Screen
-![Start Screen](screenshots/1-Logo.png)
+<img src="1-Logo.png" alt="Start Screen" width="100"/>
 
 ### 🔸 Splash Screen
 ![Splash Screen](screenshots/2-SplashScreen.png)
