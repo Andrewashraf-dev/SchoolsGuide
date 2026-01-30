@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Android build folders
 /build/
 /*/build/
@@ -27,6 +28,11 @@ Thumbs.db
 
 # Environment config files
 .env
+google-services.json
+img2.jpg
+imgdev.jpg
+pci.jpg
+
 
 # Logs
 *.log
@@ -46,3 +52,6 @@ fabric.properties
 gen/
 out/
 captures/
+=======
+/build
+>>>>>>> 8fb12914d70d970963b1eca8de7e8589e7bd9b86
