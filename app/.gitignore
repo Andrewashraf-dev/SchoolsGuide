@@ -32,6 +32,7 @@ google-services.json
 img2.jpg
 imgdev.jpg
 pci.jpg
+.gitignore
 
 
 # Logs
@@ -54,4 +55,3 @@ out/
 captures/
 =======
 /build
->>>>>>> 8fb12914d70d970963b1eca8de7e8589e7bd9b86
